@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sshntpdl
+- 👋 Hi, I’m Sushant.
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on  React Project
